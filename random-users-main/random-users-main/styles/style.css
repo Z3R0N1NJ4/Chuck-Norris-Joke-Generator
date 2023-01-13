@@ -1,0 +1,9 @@
+/* body */
+body {
+    text-align: center;
+}
+/* Card */
+.card{
+    width: 18rem;
+    margin: auto;
+}
